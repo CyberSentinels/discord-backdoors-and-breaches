@@ -6,9 +6,16 @@
 
 <img src="https://github.com/simeononsecurity/discord-backdoors-and-breaches/blob/main/.github/images/bnb-dark.png?raw=true" alt="Backdoors and Breaches logo" width="200"/>
 
-
 A Discord bot for Backdoors and Breaches, a turn-based strategy game by [BHIS](https://www.blackhillsinfosec.com/projects/backdoorsandbreaches/).
 
+See the Bot in Action!
+<!-- Website -->
+<a href="https://cybersentinels.org">
+<img src="https://img.shields.io/badge/Website-Visit-<COLOR>?color=green" alt="Website">
+</a>
+<a href="https://discord.io/cybersentinels">
+<img src="https://img.shields.io/discord/1077773186772521011?label=Cyber%20Sentinels%20Discord&logo=discord&logoColor=white" alt="Discord">
+</a>
 
 ## Available Commands
 
